@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 
 // Your Bot API Key
-const bot = new Telegraf('7403899361:AAFDUYPo8fgD1cItvdCG1so5fxB2SSRerjU'); // Replace with your actual API key
+const bot = new Telegraf('7403899361:AAF98LTlVLow_oON0x73FfrgaI9SkVZx3js'); // Replace with your actual API key
 
 // Wallet address
 const WALLET_ADDRESS = '8CEkNWWi6ipY79Wjmubip65Gvy7EWvFMQKv3gLK3wzaV';
