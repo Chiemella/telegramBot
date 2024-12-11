@@ -1,0 +1,16 @@
+{
+    "name": "sync-trader-bot",
+    "version": "1.0.0",
+    "description": "A Telegram bot for sync trading.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "telegraf": "^4.12.2"
+    },
+    "keywords": [],
+    "author": "Chiemella",
+    "license": "MIT"
+  }
+  
